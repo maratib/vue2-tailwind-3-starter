@@ -1,4 +1,6 @@
-# vue2-starter
+# vue2-tailwindcss-3-starter
+
+## vue-router and vuex added
 
 ## Project setup
 ```
@@ -7,7 +9,7 @@ yarn install
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn dev
 ```
 
 ### Compiles and minifies for production
